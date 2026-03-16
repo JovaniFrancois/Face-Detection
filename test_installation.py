@@ -1,4 +1,3 @@
-# Create test_installation.py
 import cv2
 import mediapipe
 import face_recognition
